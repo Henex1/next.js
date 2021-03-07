@@ -15,7 +15,7 @@ export default function Home() {
       // You know that the user is loaded: either logged in or out!
       console.log(user)
     }
-    // You also have your firebase app initialized
+    // You also have your firebase app initialized how
     console.log(firebase)
   }, [loadingUser, user])
 
